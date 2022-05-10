@@ -3,3 +3,13 @@
     height:500px;
     border: none;
 }
+.school_head{
+    width:100%;
+    font-size: 20px;
+    padding:6px;
+    border-radius: 15px;
+margin-bottom:15px;
+}
+.school_head i{
+    float:right;
+}
